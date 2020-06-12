@@ -1,0 +1,116 @@
+{
+  "uuid": "c13334224cf29f3457f5797585081f74",
+  "path": "Offline/Sheet_1",
+  "name": "Sheet_1",
+  "content": "",
+  "created_at": "2020-06-12 11:42:16",
+  "updated_at": "2020-06-12 12:34:17",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "60127136900f790c909f18871576063d",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "94bb0ee501b5479cbca907cfc1969bf6": 1,
+        "8c283e36c2194e51a1b8e11dd2ed9918": 1,
+        "7172e2cb421f49528e69cbcd856ddc7d": 1,
+        "cf6eca9c9efe444882712b3d5cec1885": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "BUZZER",
+          1,
+          "BUZZER-HOFFMANN",
+          "SG1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "61b6cc62f66149c791f4eae8c9aeddb1",
+            "uuid": "8c283e36c2194e51a1b8e11dd2ed9918"
+          }
+        ],
+        [
+          "ultrasonic sensor",
+          1,
+          "ULTRASONIC SENSOR",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "LCSC",
+            "puuid": "346b8dde163043d6bf1073a972d2b4be",
+            "uuid": "94bb0ee501b5479cbca907cfc1969bf6"
+          }
+        ],
+        [
+          "RaspberryPi_3_B+",
+          1,
+          "RASBERRYPI_3_B+_POE",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "RaspberryPi 3",
+            "puuid": "7afa84e2a8ec49dfb9dce225e440ec75",
+            "uuid": "7172e2cb421f49528e69cbcd856ddc7d"
+          }
+        ],
+        [
+          "LED-0603_G",
+          1,
+          "LED0603_GREEN",
+          "LED1",
+          {
+            "BOM_Manufacturer": "EVERLIGHT(台湾亿光)",
+            "BOM_Manufacturer Part": "19-217/GHC-YR1S2/3T",
+            "BOM_Supplier Part": "C72043",
+            "BOM_Supplier": "LCSC",
+            "puuid": "7b706fa666744f94a830dffb572df5db",
+            "uuid": "cf6eca9c9efe444882712b3d5cec1885"
+          }
+        ]
+      ],
+      "updateTime": 1591927092,
+      "createTime": 1591926136,
+      "histories": [],
+      "created_at": "2020-06-12 11:42:16",
+      "updated_at": "2020-06-12 11:58:12"
+    },
+    {
+      "uuid": "1a8f5626cdada78fe62fdcc31c1c8978",
+      "puuid": "c13334224cf29f3457f5797585081f74",
+      "title": "PCB_2020-06-12_12-34-17",
+      "filename": "PCB_2020-06-12_12-34-17.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "61b6cc62f66149c791f4eae8c9aeddb1": 1,
+        "346b8dde163043d6bf1073a972d2b4be": 1,
+        "7afa84e2a8ec49dfb9dce225e440ec75": 1,
+        "7b706fa666744f94a830dffb572df5db": 1
+      },
+      "BOM": [],
+      "updateTime": 1591929257,
+      "createTime": 1591929257,
+      "histories": [],
+      "created_at": "2020-06-12 12:34:17",
+      "updated_at": "2020-06-12 12:34:17"
+    }
+  ],
+  "sort": [],
+  "title": "Sheet_1",
+  "foldername": "Sheet_1",
+  "schfilename": "Sheet_1.json",
+  "schfilemtime": 1591927092739
+}
